@@ -56,7 +56,7 @@
                             <div class="col-7 col-stats">
                                 <div class="numbers">
                                     <p class="card-category"> Total Pengajuan </p>
-                                    <h4 class="card-title">{{ App\Models\FillSurveys::count() }} </h4>
+                                    <h4 class="card-title">{{ App\Models\fillSurveys::count() }} </h4>
                                 </div>
                             </div>
                         </div>
